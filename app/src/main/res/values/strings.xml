@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Macromizer</string>
+    <string name="action_settings">Action</string>
+    <string name="hello_world">Hello World</string>
 </resources>
